@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Toolbar.TitleText" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textSize">21sp</item>
+
+        <item name="colorPrimary">@color/colorTop</item>
+        <item name="colorAccent">@color/colorTop</item>
+        <item name="android:statusBarColor">@color/colorTop</item>
+
+        <item name="colorPrimaryDark">@color/colorTop</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">@android:color/holo_orange_light</item>
+    </style>
+</resources>
